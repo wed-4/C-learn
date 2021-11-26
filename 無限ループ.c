@@ -7,3 +7,5 @@ int main(void) {
   }
   return 0;
 }
+
+//while文を用いた無限ループ。
